@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Configuring Roles & Permissions</h1>
-In this tutorial, you will observe how to create a role and give permissions.<br />
+In this tutorial, you will observe how to create a role and grant permissions.<br />
 
 
 <h2>Environments and Technologies Used</h2>
