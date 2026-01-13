@@ -19,11 +19,11 @@ In this tutorial, you will observe how to create a role and grant permissions.<b
 
 <h2>Steps</h2>
 
-- Step 1: Log in to osTicket as Administrator. Go to Admin Panel -> Agents -> Roles -> Add Role and name it "Supreme Admin"
-- Step 2: Click on Permissions -> Tickets and check every box
-- Step 3: Click on Tasks and check every box
-- Step 4: Click on knowledgebase and check the box then click Add Role
-- Step 5: Observe how Role (Supreme Admin) was created with every permission
+- Step 1: Log in to osTicket as Administrator. Go to Admin Panel -> Agents -> Roles -> Add Role
+- Step 2: Add Permissions 
+- Step 3: Add Tasks
+- Step 4: Add knowledgebase and create role
+- Step 5: Observe how the role (Supreme Admin) was created with every permission
 
 <p>
 <img width="1922" height="1198" alt="image" src="https://github.com/user-attachments/assets/d32bd993-8215-4d3e-85d6-8d84754ee1b4" />
