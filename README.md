@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Configuring Roles for Permissions</h1>
+<h1>osTicket - Ticket Configuring Roles & Permissions</h1>
 In this tutorial, you will observe how to create a role and give permissions.<br />
 
 
