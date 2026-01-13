@@ -20,31 +20,50 @@ In this tutorial, you will observe how to create a role and give permissions.<br
 <h2>Steps</h2>
 
 - Step 1: Log in to osTicket as Administrator. Go to Admin Panel -> Agents -> Roles -> Add Role and name it "Supreme Admin"
-- Step 3: 
-- Step 4: 
-- Step 5: 
+- Step 2: Click on Permissions -> Tickets and check every box
+- Step 3: Click on Tasks and check every box
+- Step 4: Click on knowledgebase and check the box then click Add Role
+- Step 5: Observe how Role (Supreme Admin) was created with every permission
 
 <p>
 <img width="1922" height="1198" alt="image" src="https://github.com/user-attachments/assets/d32bd993-8215-4d3e-85d6-8d84754ee1b4" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name it: "Supreme Admin" and click on "Permissions"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1922" height="1476" alt="image" src="https://github.com/user-attachments/assets/6d51de68-062d-49a9-bfa4-d248cd4ac7e7" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select every box and click on "Tasks"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1918" height="1182" alt="image" src="https://github.com/user-attachments/assets/24654fac-9953-4849-b109-71be53d42d33" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select every box and click on "Knowledgebase"
+</p>
+<br />
+
+<p>
+<img width="1926" height="878" alt="image" src="https://github.com/user-attachments/assets/af8f9736-8954-440e-be91-3fc9f076e4fb" />
+
+</p>
+<p>
+Select the box and click on "Add Role"
+</p>
+<br />
+
+<p>
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/ac7d1d61-8929-459a-a421-3efb3bca3e87" />
+
+</p>
+<p>
+Oberve how the "Supreme Admin" Role was create with every permission!
 </p>
 <br />
