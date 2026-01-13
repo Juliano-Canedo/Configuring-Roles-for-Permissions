@@ -19,7 +19,7 @@ In this tutorial, you will observe how to create a role and give permissions.<br
 
 <h2>Steps</h2>
 
-- Step 1: Log in to osTicket as Administrator. Go to Admin Panel ->l Agents -> Roles -> Add Role and name it "Supreme Admin"
+- Step 1: Log in to osTicket as Administrator. Go to Admin Panel -> Agents -> Roles -> Add Role and name it "Supreme Admin"
 - Step 3: 
 - Step 4: 
 - Step 5: 
