@@ -23,7 +23,7 @@ In this tutorial, you will observe how to create a role and grant permissions.<b
 - Step 2: Add Permissions 
 - Step 3: Add Tasks
 - Step 4: Add knowledgebase and create role
-- Step 5: Observe how the role (Supreme Admin) was created with every permission
+- Step 5: Observe how the role (Supreme Admin) is created with every permission
 
 <p>
 <img width="1922" height="1198" alt="image" src="https://github.com/user-attachments/assets/d32bd993-8215-4d3e-85d6-8d84754ee1b4" />
