@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Configuring Roles & Permissions</h1>
-In this tutorial, you will observe how to create a role and grant permissions.<br />
+
+The purpose of this tutorial is to understand how to create a role and assign permissions to it in a ticketing system environment. Once the role is created, it can be assigned individually or to a group.<br />
 
 
 <h2>Environments and Technologies Used</h2>
